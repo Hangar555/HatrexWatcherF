@@ -1,2 +1,1 @@
 # HatrexWatcher
-HATREXFTW
